@@ -1,0 +1,2 @@
+For running the servo motors through the 8051 microcontroller we need a power supply of 5V, Exceeding the 5V the motors are overheating. 
+So we have simulated the hardware through Arduino which has a built-in  5V power supply in it.
